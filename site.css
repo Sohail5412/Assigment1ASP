@@ -1,0 +1,59 @@
+/* Base styles */
+body {
+    background-color: #F7F9FC;
+    color: #414551;
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: #2E62A3;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #3C4F76;
+}
+
+strong {
+    color: #2E62A3;
+}
+
+/* Table styles for Brief */
+.table {
+    border: 1px solid #E1E5EB;
+}
+
+    .table td {
+        color: #768192;
+    }
+
+/* Styles specific to Index (homepage) */
+.banner {
+    background-color: #2E62A3;
+    color: #ffffff;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #3C4F76;
+    border: none;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.btn-secondary {
+    background-color: #E1E5EB;
+    border: none;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #2E62A3;
+}
+
+.cta {
+    padding: 40px 0;
+    background-color: #F7F9FC;
+    text-align: center;
+}
